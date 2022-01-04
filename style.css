@@ -1,0 +1,108 @@
+#Global{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    background-color: black;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+   
+}
+.bottom{
+    margin-bottom: 0%;
+}
+#H1{
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+
+#img{
+    height: 20px;
+}
+
+
+#map {
+    height:350px;
+    width: 80%;
+    float: right;
+
+}
+#DIV{
+    float: right;
+    width: 80%;
+    height: 200px;
+    background-color: rgb(48, 46, 46);
+}
+
+/* ListData */
+
+#List{
+    height: 550px;
+    width: 20%;
+    float: left;
+    background-color: rgb(48, 46, 46);
+    overflow: scroll;
+   
+}
+
+#divdata{
+    
+    padding-top: 5px;
+    padding-bottom: 10px;
+   
+
+}
+#divdata:hover {
+    background-color: gray
+}
+
+#LISTDATA{
+    list-style: none;
+    text-align: center;
+    padding-left: 0px;
+}
+
+#FLYTO{
+    text-decoration: none;
+    color: rgb(241, 237, 237);
+    
+}
+
+#countryname{
+    color: red;
+}
+
+/* totalDIV */
+.class{
+    float: right;
+  list-style: none;
+  /* padding: 60px; */
+  padding-right: 200px;
+  padding-top: 50px;
+  font-size: 30px;
+  color: beige;
+  
+}
+.coronadata{
+    color: honeydew;
+}
+#Recovered{
+    color: green;
+}
+
+#Deaths{
+    color: red;
+}
+#Confirmed{
+    color: blue;
+}
+
+
+
+
